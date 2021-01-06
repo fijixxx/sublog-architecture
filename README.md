@@ -6,6 +6,8 @@
 
 ## レイヤー別技術スタック一覧
 
+svg アイコンは https://svgporn.com/ よりお借りしました
+
 ### **FrontEnd**
 
 <div>
@@ -33,7 +35,7 @@
 
 <div>
  <img src="assets/aws-route53.svg" style="max-width: 120px;"> <img src="assets/AWS-Cloud-Development-Kit.svg" style="max-width: 120px;"> <img src="assets/github-icon.svg" style="max-width: 120px;"> <img src="assets/discord.svg" style="max-width: 120px;">
-   <p>Amazon Route53/ AWS CDK/ GitHub, GitHub Actions, GitHub Apps)/ Discord</p>
+   <p>Amazon Route53/ AWS CDK/ GitHub, GitHub Actions, GitHub Apps/ Discord</p>
 </div>
 
 <div>
