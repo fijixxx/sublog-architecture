@@ -51,9 +51,9 @@ svg アイコンは https://svgporn.com/ よりお借りしました
  <img src="assets/aws-route53.svg" width="80">
  <img src="assets/aws-cloudformation.svg" width="80">
  <img src="assets/github-icon.svg" width="80">
- <img src="assets/discord.svg" width="80">
+ <img src="assets/slack.svg" width="80">
 </div>
-<p>Amazon Route53/ AWS CloudFormation(AWS CDK)/ GitHub, GitHub Actions, GitHub Apps/ Discord</p>
+<p>Amazon Route53/ AWS CloudFormation(AWS CDK)/ GitHub, GitHub Actions, GitHub Apps/ Slack</p>
 
 <div>
  <img src="assets/typescript-icon.svg" width="80">
