@@ -20,11 +20,12 @@ svg アイコンは https://svgporn.com/ よりお借りしました
 
 <div>
  <img src="assets/google-analytics.svg" width="80">
+ <img src="assets/cloudinary.svg" width="80">
  <img src="assets/aws-s3.svg" width="80">
  <img src="assets/aws-cloudfront.svg" width="80">
  <img src="assets/aws-lambda.svg" width="80">
 </div>
- <p>Google Analytics/ Amazon S3/ Amazon CloudFront/ Lambda@Edge</p>
+ <p>Google Analytics/ Cloudinary/ Amazon S3/ Amazon CloudFront/ Lambda@Edge</p>
 
 ### **API**
 
