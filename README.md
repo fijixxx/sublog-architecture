@@ -1,8 +1,8 @@
-# sublog-architecture v2.0
+# sublog-architecture v2.06
 
 [sublog](https://github.com/fijixxx/sublog) の環境構成図です。
 
-![v2.6環境構成図](sublog-architecture-v2.06.png)
+![v2.06環境構成図](sublog-architecture-v2.06.png)
 
 ## レイヤー別技術スタック一覧
 
