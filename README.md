@@ -8,7 +8,7 @@
 
 svg アイコンは https://svgporn.com/ よりお借りしました
 
-### **FrontEnd**
+### **[FrontEnd](https://github.com/fijixxx/sublog)**
 
 <div>
  <img src="assets/typescript-icon.svg" width="80">
@@ -27,7 +27,7 @@ svg アイコンは https://svgporn.com/ よりお借りしました
 </div>
  <p>Google Analytics/ Cloudinary/ Amazon S3/ Amazon CloudFront/ Lambda@Edge</p>
 
-### **API**
+### **[API](https://github.com/fijixxx/sublog-api)**
 
 <div>
  <img src="assets/typescript-icon.svg" width="80">
@@ -38,7 +38,7 @@ svg アイコンは https://svgporn.com/ よりお借りしました
 </div>
  <p>TypeScript/ GraphQL/ Apollo Server/ Docker/ Cloud Run</p>
 
-### **Infra**
+### **[Infra](https://github.com/fijixxx/sublog-infra)**
 
 <div>
  <img src="assets/aws-dynamodb.svg" width="80">
